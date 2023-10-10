@@ -3,11 +3,8 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/wananiii/APTV/main/ya.m3u
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟", Zz1tai姿态
-http://live.aptvapp.com/live/huya/333003
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/be/5b8bde4a7f4727361165d63acc9b81_180_135.jpg?1585910981" group-title="英雄联盟", 蛇哥Colin
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/57/c520ca01e7a02975e7e5d96f432cff_180_135.jpg?1683371602" group-title="英雄联盟", Uzi
-http://live.aptvapp.com/live/huya/100
+
+
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/bd/8c8dc2071fca5f917cc84372eed4cb_180_135.jpg?1585727771" group-title="英雄联盟", 神超
 http://live.aptvapp.com/live/huya/102411?quality=10000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/e4/837d557cdf07c6adf85a62540ce53d_180_135.jpg?1578575876" group-title="英雄联盟", 小超梦ovo
@@ -40,3 +37,13 @@ http://openhls-tct.douyucdn2.cn/dyliveflv3a/5551871rDUlxUzgD_2000p.m3u8?txSecret
 https://tv.iill.top/douyu/221869
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟", Zz1tai姿态222
 https://tx.flv.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1-imgplus.flv?wsSecret=f00defdd8b682e98ac9c02fda13d1f5b&wsTime=6526c207&u=0&seqid=16969524719784114&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,264_8000,&t=103
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟", 蛇哥
+https://tx.flv.huya.com/src/1629021815-1629021815-6996595419895562240-3258167086-10057-A-0-1-imgplus.flv?wsSecret=fab7b8278d132353f240c2d7475a604d&wsTime=6526c68b&u=0&seqid=16969536111396694&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,264_10000,&t=103
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟", 莎莉
+https://hw.flv.huya.com/src/813535483-813535483-3494108293620563968-1627194422-10057-A-0-1-imgplus.flv?wsSecret=8cf81d6ed4b1158ce47cf47f2684d052&wsTime=6526c790&u=0&seqid=16969538745548720&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟", 北枫
+https://tx.flv.huya.com/src/2183525275-2183525275-9378169646114406400-4367174006-10057-A-0-1-imgplus.flv?wsSecret=30cecee7c9fdc667a75f98474027580b&wsTime=6526c7d9&u=0&seqid=16969539457046962&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,264_8000,&t=103
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟", LPL
+https://tx.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=58df983e219988dee9e250c77edc5130&wsTime=6526c80f&u=0&seqid=16969539994802360&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,264_8000,&t=103
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟", 胖胖
+http://openhls-tct.douyucdn2.cn/dyliveflv1/31107rFOW5ojeLHK_2000.m3u8?txSecret=40705415ab7f3e10256d37d4931aa810&txTime=65259344&token=h5-douyu-0-31107-d1bbd41e459226ed679bf5b1258785c2&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=365892584
